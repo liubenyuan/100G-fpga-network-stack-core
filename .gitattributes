@@ -3,9 +3,13 @@
 
 # Custom for Visual Studio
 *.cs   diff=csharp
+
+# source code
 *.cpp  diff=astextplain
 *.hpp  diff=astextplain
 *.tcl  diff=astextplain
+*.v    diff=astextplain
+*.vhd  diff=astextplain
 
 # Standard to msysgit
 *.doc  diff=astextplain
